@@ -1,0 +1,139 @@
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.AssemblyReference.cache
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Spravce\source\repos\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.AssemblyReference.cache
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jaroušek\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.AssemblyReference.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Spravce\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csprojAssemblyReference.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové (1)\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.AssemblyReference.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jaroušek\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csprojAssemblyReference.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\SpacekJ\OneDrive - Střední škola informatiky a služeb, Dvůr Králové\2021. 2\rpg\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.AssemblyReference.cache
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\zlatnikovan\Desktop\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.AssemblyReference.cache
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.sourcelink.json
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jarousek\Desktop\github\Bludiste\Bludiste\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
+C:\Users\Jarousek\Desktop\github_push\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.exe
+C:\Users\Jarousek\Desktop\github_push\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.deps.json
+C:\Users\Jarousek\Desktop\github_push\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.json
+C:\Users\Jarousek\Desktop\github_push\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.runtimeconfig.dev.json
+C:\Users\Jarousek\Desktop\github_push\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jarousek\Desktop\github_push\Bludiste\bin\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.AssemblyReference.cache
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.Form1.resources
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.GenerateResource.cache
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfoInputs.cache
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.AssemblyInfo.cs
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.csproj.CoreCompileInputs.cache
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.dll
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.pdb
+C:\Users\Jarousek\Desktop\github_push\Bludiste\obj\Debug\netcoreapp3.1\Bludiste.genruntimeconfig.cache
