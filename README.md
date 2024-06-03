@@ -1,6 +1,5 @@
 # Windows Froms - Encrypt and Decrypt application
 
-<br />
 <div align="left">
 • Small application where you choose start and ending
 • You can add walls through which the path can't go
