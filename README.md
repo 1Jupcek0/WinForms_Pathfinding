@@ -2,6 +2,7 @@
 
 <div align="left">
 • Small application where you choose start and ending
+<br />
 • You can add walls through which the path can't go
 <br />
 • It's a visual representation of the Dijkstra's algorithm
